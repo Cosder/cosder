@@ -1,4 +1,10 @@
-### Hi there 👋
+### Nice to meet you 🥳
+I am currently studying software engineering. I love learning new about new technologies, particularly about how users interact with technology.
+
+- 🧕🏽 Pronouns: she/her
+- 🌱 I’m currently learning: React Native, VR/AR apps, Machine Learning (FCC)
+- 🤟🏽 Languages: Python, C, Javascript
+- 💼 Reach me [LinkedIn](https://www.linkedin.com/in/marium-mannan-518454192/)
 
 <!--
 **Cosder/cosder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
