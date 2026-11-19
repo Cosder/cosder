@@ -1,9 +1,8 @@
 ### Nice to meet you 🥳
 I am currently studying software engineering. I love learning new about new technologies, particularly about how users interact with technology.
 
-- 🧕🏽 Pronouns: she/her
 - 🌱 I’m currently learning: React Native, Machine Learning (FCC)
-- 🤟🏽 Languages: Python, C, Javascript
+- 🤟🏽 Languages: Java, Python, C, Javascript
 - 👯 Connect with me: [LinkedIn](https://www.linkedin.com/in/marium-mannan-518454192/)
 
 <!--
